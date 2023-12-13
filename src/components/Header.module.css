@@ -1,0 +1,14 @@
+.header {
+    background: var(--gray--800);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.25rem 0;
+}
+
+.header img {
+    height: 3rem;
+    justify-self: center;
+    margin-right: 1rem;
+    filter: drop-shadow(0 0rem var(--white));
+}
